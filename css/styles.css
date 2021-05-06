@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-
 }
 
 *,
@@ -102,13 +101,11 @@ body {
 
 .item-orange a:hover {
   background-color: #E28625;
-
 }
 
 .card-item a:focus {
   outline: none;
   box-shadow: 0 0 0 3px rgb(116, 104, 104);
-
 }
 
 .item-green {
@@ -123,13 +120,11 @@ body {
   border: 2px solid white;
   color: white;
   background-color: #006971;
-
 }
 
 
 .item-dark-green {
   background-color: #004140;
-
 }
 
 .item-dark-green a {
@@ -138,5 +133,4 @@ body {
 
 .item-dark-green a:hover {
   background-color: #004140;
-
 }
